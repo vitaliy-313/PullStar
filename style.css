@@ -10,6 +10,9 @@ body{
     flex-direction: column;
     text-align: center;
 }
+.main{
+    text-align: center;
+}
 button{
     background-color: rgb(61, 108, 108);
     border-radius: 5px;
@@ -57,5 +60,6 @@ button{
     font-size: 20px;
     transition: all 0.2s ease-in-out;
 }
+
 
 
