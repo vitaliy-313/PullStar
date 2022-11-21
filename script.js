@@ -1,6 +1,6 @@
-let btnModalShow = document.querySelector('.btn-modal');
+let btnModalShow = document.querySelector('.btn-module');
 let modalWrapper = document.querySelector('.modal-wrapper');
-let btnModalClosed = document.querySelector('.modal__closed');
+let btnModalClosed = document.querySelector('.modal__close');
 let closedModalWindow = () => modalWrapper.style.display = "none";
 
 btnModalShow.onclick = function () {
